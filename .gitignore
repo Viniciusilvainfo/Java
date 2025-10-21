@@ -1,0 +1,15 @@
+# Arquivos compilados
+*.class
+
+# Diretórios de build
+/bin/
+/out/
+/target/
+
+# Configs locais
+*.log
+*.tmp
+
+# Configurações do VS Code, IntelliJ etc.
+.vscode/
+.idea/
